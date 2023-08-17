@@ -41,18 +41,20 @@ class User_Def_Excep{
   	static void Check(int x) throws Voting_Right
 	
 {
-      
-    
+      	
      		 if(x<18)
+     		 	
      		 
 			//Voting_Right v=new Voting_Right("sorry You have to wait till 18"); 
 
       			 throw new Voting_Right("sorry You have to wait till 18");
+      	
+      	 
      		 else
      
 			 System.out.println("You can vote");
-     
-          
+    
+         
   	  }//check
     
 }//User_Def_Excep
