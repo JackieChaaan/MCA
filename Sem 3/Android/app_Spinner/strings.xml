@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">app_Spinner</string>
+    <string-array name="category">
+        <item>CSE</item>
+        <item>MCA</item>
+        <item>MECH</item>
+        <item>EC</item>
+        <item>MTECH</item>
+        <item>CIVIL</item>
+    </string-array>
+</resources>
